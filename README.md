@@ -1,4 +1,4 @@
-# ☀🏝☀🏝☀🏝☀🏝☀🏝☀🏝 Reto Inicial 🏝☀🏝☀🏝☀🏝☀🏝☀🏝☀
+# ☀🏝☀🏝☀🏝☀🏝☀🏝 Reto Inicial 🏝☀🏝☀🏝☀🏝☀🏝☀
 <h2><i>Guía de estudio rumbo a la certificación AZ-900 Azure Fundamentals</i></h2>
 <p>Los objetivos de este repositorio son:</p>
 <ol>
