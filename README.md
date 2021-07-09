@@ -27,8 +27,8 @@
   <li><i><b>Tolerancia a fallos:</b></i></li>
   <p>Microsoft Azure se pone un pie adelante de los posibles desastres y cuenta con servicios de respaldo, replicación de datos y geodistribución de la nube. Con estas implementaciones de seguridad, tus datos siempre están seguros.</p>
   
-  <li><i><b>:</b></i></li>
-  <p></p>
+  <li><i><b>Agilidad:</b></i></li>
+  <p>Microsoft Azure implementa y configura de manera rápida los recursos de nube necesarios a medidad que los requerimientos cambian.</p>
   
   <li><i><b>:</b></i></li>
   <p></p>
