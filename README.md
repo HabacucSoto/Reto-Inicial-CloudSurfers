@@ -8,7 +8,7 @@
   <li>Cumplir con el reto semanal del Summer Cloud</li>
 </ol>
 
-<h1>NIVEL 1</h1>
+<h1>MÓDULO 1</h1>
  
 <h2>Conceptos básicos de Microsoft Azure</h2>
 
@@ -131,19 +131,19 @@
 
 
 
-<h1>NIVEL 2</h1>
+<h1>MÓDULO 2</h1>
 <strong><i>PRÓXIMAMENTE ...</i></strong>
 
-<h1>NIVEL 3</h1>
+<h1>MÓDULO 3</h1>
 <strong><i>PRÓXIMAMENTE ...</i></strong>
 
-<h1>NIVEL 4</h1>
+<h1>MÓDULO 4</h1>
 <strong><i>PRÓXIMAMENTE ...</i></strong>
 
-<h1>NIVEL 5</h1>
+<h1>MÓDULO 5</h1>
 <strong><i>PRÓXIMAMENTE ...</i></strong>
 
-<h1>NIVEL 6</h1>
+<h1>MÓDULO 6</h1>
 <strong><i>PRÓXIMAMENTE ...</i></strong>
 
 
